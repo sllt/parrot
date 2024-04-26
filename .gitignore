@@ -43,4 +43,5 @@ bin/
 vendor
 
 # custom
-parrot
+parrot/
+!parrot/
