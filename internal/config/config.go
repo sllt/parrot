@@ -1,7 +1,7 @@
 package config
 
 var (
-	Version       = "1.0.16"
+	Version       = "v0.0.1"
 	WireCmd       = "github.com/google/wire/cmd/wire@latest"
 	ParrotCmd     = "github.com/sllt/parrot@latest"
 	RepoProto     = "https://github.com/sllt/parrot-layout-proto.git"
